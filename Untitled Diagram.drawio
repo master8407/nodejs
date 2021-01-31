@@ -1,26 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T06:22:31.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="PyeIj3jnczaNn2K19W_c" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T06:29:43.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="JDvGZt4xuO5VeG91Fgw6" version="14.2.9" type="github">
   <diagram name="node install" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Sy0Jc_meHuo4_zriLQnj-98" value="NODE JS?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#9673a6;fontColor=#FFFFFF;fillColor=#B266FF;" vertex="1" parent="1">
+        <mxCell id="Sy0Jc_meHuo4_zriLQnj-98" value="NODE JS?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#9673a6;fontColor=#FFFFFF;fillColor=#B266FF;" parent="1" vertex="1">
           <mxGeometry x="120" y="80" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Sy0Jc_meHuo4_zriLQnj-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sy0Jc_meHuo4_zriLQnj-100" target="Sy0Jc_meHuo4_zriLQnj-102">
+        <mxCell id="Sy0Jc_meHuo4_zriLQnj-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#647687;strokeColor=#314354;" parent="1" source="Sy0Jc_meHuo4_zriLQnj-100" target="Sy0Jc_meHuo4_zriLQnj-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sy0Jc_meHuo4_zriLQnj-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sy0Jc_meHuo4_zriLQnj-100" target="Sy0Jc_meHuo4_zriLQnj-106">
+        <mxCell id="Sy0Jc_meHuo4_zriLQnj-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#647687;strokeColor=#314354;" parent="1" source="Sy0Jc_meHuo4_zriLQnj-100" target="Sy0Jc_meHuo4_zriLQnj-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sy0Jc_meHuo4_zriLQnj-100" value="Node 다운로드 확인" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="240" height="80" as="geometry" />
+        <mxCell id="Sy0Jc_meHuo4_zriLQnj-100" value="Node 다운로드 확인" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=middle;spacingTop=0;fontStyle=0;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sy0Jc_meHuo4_zriLQnj-102" value="npm init" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="240" height="80" as="geometry" />
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1" source="Sy0Jc_meHuo4_zriLQnj-102" target="CgYx6up2wAiAhUWhdHWN-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sy0Jc_meHuo4_zriLQnj-106" value="node -v" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="240" height="80" as="geometry" />
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1" source="Sy0Jc_meHuo4_zriLQnj-102" target="CgYx6up2wAiAhUWhdHWN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sy0Jc_meHuo4_zriLQnj-102" value="npm init" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="300" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sy0Jc_meHuo4_zriLQnj-106" value="node -v" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1" source="CgYx6up2wAiAhUWhdHWN-2" target="CgYx6up2wAiAhUWhdHWN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-2" value="package.json" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1" source="CgYx6up2wAiAhUWhdHWN-4" target="CgYx6up2wAiAhUWhdHWN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1" source="CgYx6up2wAiAhUWhdHWN-4" target="CgYx6up2wAiAhUWhdHWN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-4" value="index.js" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-6" value="express js 다운받기" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-8" value="신규 or 존재하는 npm package 만들기" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYx6up2wAiAhUWhdHWN-10" value="back-end 시작점" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="500" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
